@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/builder/builder/bin/Debug/net5.0/builder.deps.json
+/Users/andreyipati/Projects/builder/builder/bin/Debug/net5.0/builder.runtimeconfig.json
+/Users/andreyipati/Projects/builder/builder/bin/Debug/net5.0/builder.runtimeconfig.dev.json
+/Users/andreyipati/Projects/builder/builder/bin/Debug/net5.0/builder.dll
+/Users/andreyipati/Projects/builder/builder/bin/Debug/net5.0/ref/builder.dll
+/Users/andreyipati/Projects/builder/builder/bin/Debug/net5.0/builder.pdb
+/Users/andreyipati/Projects/builder/builder/obj/Debug/net5.0/builder.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/builder/builder/obj/Debug/net5.0/builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/builder/builder/obj/Debug/net5.0/builder.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/builder/builder/obj/Debug/net5.0/builder.AssemblyInfo.cs
+/Users/andreyipati/Projects/builder/builder/obj/Debug/net5.0/builder.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/builder/builder/obj/Debug/net5.0/builder.dll
+/Users/andreyipati/Projects/builder/builder/obj/Debug/net5.0/ref/builder.dll
+/Users/andreyipati/Projects/builder/builder/obj/Debug/net5.0/builder.pdb
+/Users/andreyipati/Projects/builder/builder/obj/Debug/net5.0/builder.genruntimeconfig.cache
