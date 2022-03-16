@@ -1,0 +1,5 @@
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Singleton.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfo.cs
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Singleton.csproj.CoreCompileInputs.cache

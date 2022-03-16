@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Patterns.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Patterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Patterns.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Patterns.AssemblyInfo.cs
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Patterns.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/Singleton/Singleton/bin/Debug/net5.0/Patterns.deps.json
+/Users/andreyipati/Projects/Singleton/Singleton/bin/Debug/net5.0/Patterns.runtimeconfig.json
+/Users/andreyipati/Projects/Singleton/Singleton/bin/Debug/net5.0/Patterns.runtimeconfig.dev.json
+/Users/andreyipati/Projects/Singleton/Singleton/bin/Debug/net5.0/Patterns.dll
+/Users/andreyipati/Projects/Singleton/Singleton/bin/Debug/net5.0/ref/Patterns.dll
+/Users/andreyipati/Projects/Singleton/Singleton/bin/Debug/net5.0/Patterns.pdb
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Patterns.dll
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/ref/Patterns.dll
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Patterns.pdb
+/Users/andreyipati/Projects/Singleton/Singleton/obj/Debug/net5.0/Patterns.genruntimeconfig.cache
