@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/prototype/prototype/bin/Debug/net5.0/prototype.deps.json
+/Users/andreyipati/Projects/prototype/prototype/bin/Debug/net5.0/prototype.runtimeconfig.json
+/Users/andreyipati/Projects/prototype/prototype/bin/Debug/net5.0/prototype.runtimeconfig.dev.json
+/Users/andreyipati/Projects/prototype/prototype/bin/Debug/net5.0/prototype.dll
+/Users/andreyipati/Projects/prototype/prototype/bin/Debug/net5.0/ref/prototype.dll
+/Users/andreyipati/Projects/prototype/prototype/bin/Debug/net5.0/prototype.pdb
+/Users/andreyipati/Projects/prototype/prototype/obj/Debug/net5.0/prototype.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/prototype/prototype/obj/Debug/net5.0/prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/prototype/prototype/obj/Debug/net5.0/prototype.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/prototype/prototype/obj/Debug/net5.0/prototype.AssemblyInfo.cs
+/Users/andreyipati/Projects/prototype/prototype/obj/Debug/net5.0/prototype.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/prototype/prototype/obj/Debug/net5.0/prototype.dll
+/Users/andreyipati/Projects/prototype/prototype/obj/Debug/net5.0/ref/prototype.dll
+/Users/andreyipati/Projects/prototype/prototype/obj/Debug/net5.0/prototype.pdb
+/Users/andreyipati/Projects/prototype/prototype/obj/Debug/net5.0/prototype.genruntimeconfig.cache
